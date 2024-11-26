@@ -1,13 +1,12 @@
 # XGBoost-Core-
 
-
----
+'''
 author: Guillermo Cabrera
 date: 'Nov 2024'
-Title: Clasificación utilizando XGBoost (Core)
-Course: Fundamentos de Machine Learning
+title: Clasificación utilizando XGBoost (Core)
+course: Fundamentos de Machine Learning
 format: '.ipynb', '.py', 'csv'
----
+'''
 
 Ejecutar el archivo .ipynb para visualizar los resultados.
 
